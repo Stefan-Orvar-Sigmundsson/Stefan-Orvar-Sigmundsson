@@ -2,8 +2,8 @@
 
 * Country: Iceland
 * Born: 3 November 1989
-* Web site: https://sos.emi.is/
-* E-mail: stefan.orvar.sigmundsson@emi.is
+* Web site: https://stefanorvar.is/
+* E-mail: sigmundsson@stefanorvar.is
 
 ## Languages
 
